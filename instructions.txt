@@ -1,0 +1,6 @@
+The chatbot can be run on the terminal.
+1. Make sure that that the folder where swipl.exe resides is added to the PATH environment variable.
+2. Launch the terminal.
+3. Go to the directory where the app is located.
+4. Enter "swipl chatbot2.pl" to launch the app. 
+   It should immediately launch the chatbot, display the instructions, and ask for the first symptom.
